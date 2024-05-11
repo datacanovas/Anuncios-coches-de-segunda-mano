@@ -42,7 +42,7 @@ Después de revisar detenidamente los datos del conjunto, me han surgido las sig
 
 El análisis y la limpieza del dataset ha sido realizado mediante SQL puedes acceder a él través de este enlace 👉🏼
 
-
+https://github.com/datacanovas/SQL-Projects/blob/main/Coches-Segunda-Mano.sql
 
 La visualización está realizada a través de Power BI y puedes acceder al dashboard en el enlace 👉🏼
 
